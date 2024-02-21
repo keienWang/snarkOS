@@ -417,6 +417,9 @@ Thank you for helping make snarkOS better!
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/vbar"><img src="https://avatars.githubusercontent.com/u/108574?v=4?s=100" width="100px;" alt="vbar"/><br /><sub><b>Vaclav Barta</b></sub></a><br /><a href="https://github.com/AleoHQ/snarkOS/commits?author=vbar" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/features/security"><img src="https://avatars.githubusercontent.com/u/27347476?v=4?s=100" width="100px;" alt="Dependabot"/><br /><sub><b>Dependabot</b></sub></a><br /><a href="https://github.com/AleoHQ/snarkOS/commits?author=dependabot" title="Code">💻</a></td>
     </tr>
+    <tr>
+    <td align="center" valign="top" width="14.28%"><a href="https://github.com/keienWang"><img src="https://avatars.githubusercontent.com/u/42377006?v=4?s=100" width="100px;" alt="keienWang"/><br /><sub><b>keienWang</b></sub></a><br /><a href="https://github.com/AleoHQ/snarkOS/commits?author=keienWang" title="Code">💻</a></td>
+    </tr>
   </tbody>
   <tfoot>
     <tr>
